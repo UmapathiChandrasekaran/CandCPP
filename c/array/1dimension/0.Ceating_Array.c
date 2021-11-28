@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 void main(){
 //  declaring array a with size [100]
 //(array should be sized in c so iam taking as 100)
